@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\LabN°(Programación Estructurada)\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj": {}
+    "c:\\Users\\MINEDUCYT\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\LabN°(Programación Estructurada)\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj": {
+    "c:\\Users\\MINEDUCYT\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\LabN°(Programación Estructurada)\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj",
+        "projectUniqueName": "c:\\Users\\MINEDUCYT\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj",
         "projectName": "laboratorio-i-pe-Cintia-Alvardo",
-        "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\LabN°(Programación Estructurada)\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj",
+        "projectPath": "c:\\Users\\MINEDUCYT\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Cintia-Alvardo\\laboratorio-i-pe-Cintia-Alvardo.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\LabN°(Programación Estructurada)\\laboratorio-i-pe-Cintia-Alvardo\\obj\\",
+        "outputPath": "c:\\Users\\MINEDUCYT\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Cintia-Alvardo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"

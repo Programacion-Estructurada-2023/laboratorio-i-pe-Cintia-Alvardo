@@ -119,6 +119,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
             Console.WriteLine("Concatenar Cadena : "+ cadena_Concatenada);
             Console.WriteLine("Longitud de cadena: " +" (" + Colonia_donde_vive + ") "+ longitudCadena1);
             Console.WriteLine("Longitud de cadena: " + "("+ color_casa + ") " + longitudCadena2);
+            Console.WriteLine("Limpiado de cadena: " + Función_Limpiado);
             Console.WriteLine("");
 
 
